@@ -24,4 +24,5 @@ def remove_maggots(number_to_remove):
     number_to_remove = number_to_remove - 1
     remove_maggots(number_to_remove)
 
-print remove_maggots(100)
+#run the function we just made
+remove_maggots(100)
